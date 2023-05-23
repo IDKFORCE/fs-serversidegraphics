@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- #♥FS-Graphics♥	 -->
+<HBAO_Parameters>
+  <HBAORelativeStrength value="2.000000" />
+  <CPRelativeStrength value="0.700000" />
+  <HBAORadius0 value="0.100000" />
+  <HBAORadius1 value="0.300000" />
+  <HBAOBlendDistance value="25.000000" />
+  <CPRadius value="2.000000" />
+  <MaxPixels value="50.000000" />
+  <CutoffPixels value="1.000000" />
+  <FoliageStrength value="0.500000" />
+  <HBAOFalloffExponent value="5.000000" />
+  <CPStrengthClose value="0.500000" />
+  <CPBlendDistanceMin value="0.000000" />
+  <CPBlendDistanceMax value="100.000000" />
+</HBAO_Parameters>

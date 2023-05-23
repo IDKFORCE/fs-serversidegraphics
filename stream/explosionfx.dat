@@ -1,0 +1,36 @@
+EXPLOSIONFX_TABLE_START																																										   												
+																																																											
+EXP_VFXTAG_GRENADE				exp_grd_grenade				exp_grd_gren_sp			-							exp_grd_grenade_lod			exp_air_grenade				-						-					exp_air_grenade_lod			1.2		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_STICKYBOMB			exp_grd_sticky				exp_grd_sticky_sp		-							exp_grd_sticky_lod			exp_air_grenade				-						-					exp_air_grenade_lod			1.5		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_MOLOTOV				exp_grd_molotov				-						-							exp_grd_molotov_lod			exp_air_molotov				-						-					exp_air_molotov_lod			0.5		3			3		1		8.0		0.5		0.5		0.5		0.7		1.0		0.8		1.0		1.0		0.5
+EXP_VFXTAG_ROCKET				exp_grd_rpg					exp_grd_rpg_sp			exp_grd_rpg_post			exp_grd_rpg_lod				exp_air_rpg					exp_air_rpg_sp			-					exp_air_rpg_lod				0.8		1			1		5		5.0		0.5		0.5		1.0		0.7		1.0		0.8		2.5		0.0		0.0
+EXP_VFXTAG_PETROL_PUMP			exp_grd_petrol_pump			exp_grd_petrol_pump_sp	exp_grd_petrol_pump_post	-							exp_grd_petrol_pump			exp_grd_petrol_pump_sp	-					-							2.2		3			2		3		5.0		1.0		2.0		4.0		0.7		1.0		0.8		2.5		1.0		0.25
+EXP_VFXTAG_VEHICLE				exp_grd_vehicle				exp_grd_vehicle_sp		-							exp_grd_vehicle_lod			exp_air_rpg					exp_air_rpg_sp			-					exp_air_rpg_lod				0.6		3			0		6		5.0		0.3		2.0		0.5		0.7		1.0		0.8		2.5		0.0		0.05
+EXP_VFXTAG_BIKE					exp_grd_vehicle				exp_grd_vehicle_sp		exp_grd_vehicle_post		exp_grd_vehicle_lod			exp_air_rpg					exp_air_rpg_sp			-					exp_air_rpg_lod				0.6		2			2		4		1.0		0.4		2.0		4.0		0.7		1.0		0.8		2.5		1.0		0.25
+EXP_VFXTAG_DIR_STEAM			exp_sht_steam				-						-							-							exp_sht_steam				-						-					-							1.0		0			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_DIR_FLAME			exp_sht_flame				-						-			 				-							exp_sht_flame				-						-			 		-							1.0		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_DIR_WATER_HYDRANT	exp_hydrant					-						-							-							exp_hydrant					-						-					-							1.5		0			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_DIR_GAS_CANISTER		exp_sht_flame				-						-							-							exp_sht_flame				-						-					-							1.0		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_TRUCK				exp_grd_vehicle				exp_grd_vehicle_sp		exp_grd_vehicle_post		exp_grd_vehicle_lod			exp_air_rpg					exp_air_rpg_sp			-					exp_air_rpg_lod				2.0		3			0		8		5.0		0.3		2.0		0.5		0.7		1.0		1.0		3.0		0.0		0.05
+EXP_VFXTAG_BULLET				exp_grd_grenade				exp_grd_gren_sp			-							exp_grd_grenade_lod			exp_air_grenade				-						-					exp_air_grenade_lod			0.3		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_SMOKE_GRENADE		exp_grd_grenade_smoke		-						-			 				-							exp_grd_grenade_smoke		-						-					-							1.0		0			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_BZGAS				exp_grd_bzgas_smoke			-						-							-							exp_grd_bzgas_smoke			-						-					-							1.0		0			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_FBI4_TRUCK_DOORS		exp_fbi4_doors				-						-							-							exp_fbi4_doors				-						-					-							1.5		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_GAS_CANISTER			exp_grd_gas_can				-						-							-							exp_air_rpg					exp_air_rpg_sp			-					-							1.0		1			1		2		0.7		0.2		1.0		2.0		0.7		1.0		0.8		1.5		1.0		0.25
+EXP_VFXTAG_EXTINGUISHER			exp_sht_extinguisher		-						-							-							exp_sht_extinguisher		-						-					-							1.0		0			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_TRAIN				exp_grd_train				exp_grd_vehicle_sp		exp_grd_vehicle_post		-							exp_grd_train				exp_grd_vehicle_sp		-					-							3.0		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_BARREL				exp_grd_barrel				-						-							-							exp_air_rpg					exp_air_rpg_sp			-					-							1.0		1			1		2		0.2		1.0		1.0		1.0		0.7		1.0		0.8		1.5		1.0		0.25
+EXP_VFXTAG_PROPANE				exp_grd_propane				exp_grd_petrol_pump_sp	exp_grd_petrol_pump_post	-							exp_grd_propane				exp_grd_petrol_pump_sp	-					-							1.3		1			1		5		8.5		0.2		1.0		1.0		0.7		1.0		0.8		1.5		1.0		0.25
+EXP_VFXTAG_BLIMP				exp_air_blimp				exp_air_blimp_sp		-							-							exp_air_blimp				exp_air_blimp_sp		-					-							3.5		1			1		2		0.7		1.2		1.0		2.0		0.7		1.0		0.8 	1.5		0.0		0.0
+EXP_VFXTAG_FLARE				exp_grd_flare				-						-							-							exp_grd_flare				-						-					-							1.0		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_PLANE_ROCKET			exp_grd_tankshell			exp_grd_rpg_plane_sp	exp_grd_vehicle_post		exp_grd_tankshell_lod		exp_air_rpg_plane			exp_air_rpg_plane_sp	-					exp_air_rpg_plane_lod		1.5		3			2		5		5.0		0.8		1.0		2.0		0.7		1.0		0.8		2.5		0.0		0.0
+EXP_VFXTAG_TANKER				exp_grd_plane				exp_grd_plane_sp		exp_grd_plane_post			exp_grd_plane_lod			exp_grd_plane				exp_grd_plane_sp		-					exp_grd_plane_lod			3.5		3			0		8		5.0		0.3		0.3		0.5		0.7		1.0		0.8		2.5		0.0		0.05
+EXP_VFXTAG_PLANE				exp_grd_plane				exp_grd_plane_sp		exp_grd_plane_post			exp_grd_plane_lod			exp_grd_plane				exp_grd_plane_sp		-					exp_grd_plane_lod			3.0		3			1		8		5.0		1.2		1.0		2.0		0.7		1.0		0.8		1.5		1.0		0.25
+EXP_VFXTAG_BOAT					exp_grd_boat				exp_grd_boat_sp			exp_grd_vehicle_post		exp_grd_boat_lod			exp_grd_boat				exp_grd_boat_sp			-					exp_grd_boat_lod			1.5		3			1		6		5.0		1.2		1.0		2.0		0.7		1.0		0.8		1.5		1.0		0.25
+EXP_VFXTAG_TANKSHELL			exp_grd_tankshell			-						exp_grd_vehicle_post		exp_grd_tankshell_lod		exp_grd_tankshell			-						-					exp_grd_tankshell_lod		1.0		3			0		4		5.0		0.7		1.0		2.0		0.7		1.0		0.8		1.5		1.0		0.25
+EXP_VFXTAG_TREV3_TRAILER		scr_trev3_trailer_expolsion	-						-							-							scr_trev3_trailer_expolsion	-						-					-							1.0		1			0		1		0.3		0.7		1.0		2.0		0.7		1.0		0.8		1.5		1.0		0.25
+EXP_VFXTAG_BLIMP2				exp_air_blimp2				exp_air_blimp2_sp		-							-							exp_air_blimp2				exp_air_blimp2_sp		-					-							3.5		1			1		2		0.7		1.2		1.0		2.0		0.7		1.0		0.8		1.5		0.0		0.0
+EXP_VFXTAG_BIRDCRAP				exp_bird_crap				-						-							-							exp_bird_crap				-						-					-							1.0		0			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+
+
+EXPLOSIONFX_TABLE_END

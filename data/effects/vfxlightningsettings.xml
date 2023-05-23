@@ -1,0 +1,306 @@
+<!-- ♥FS-Graphics♥	 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<VfxLightningSettings>
+  <lightningOccurranceChance value="400" />
+  <lightningShakeIntensity value="0.100000" />
+  <lightningTimeCycleMods>
+    <tcLightningDirectionalBurst>lightning</tcLightningDirectionalBurst>
+    <tcLightningCloudBurst>lightning_cloud</tcLightningCloudBurst>
+	<tcLightningStrikeOnly>lightning_weak</tcLightningStrikeOnly>
+    <tcLightningDirectionalBurstWithStrike>lightning_strong</tcLightningDirectionalBurstWithStrike>
+  </lightningTimeCycleMods>
+  <DirectionalBurstSettings>
+    <BurstIntensityMin value="1.100000" />
+    <BurstIntensityMax value="1.000000" />
+    <BurstDurationMin value="0.050000" />
+    <BurstDurationMax value="0.150000" />
+    <BurstSeqCount value="4" />
+    <RootOrbitXVariance value="180.000000" />
+    <RootOrbitYVarianceMin value="50.000000" />
+    <RootOrbitYVarianceMax value="60.000000" />
+    <BurstSeqOrbitXVariance value="10.000000" />
+    <BurstSeqOrbitYVariance value="5.000000" />
+  </DirectionalBurstSettings>
+  <CloudBurstSettings>
+    <BurstIntensityMin value="16.000000" />
+    <BurstIntensityMax value="64.000000" />
+    <LightSourceExponentFalloff value="128.000000" />
+    <LightDeltaPos value="-400.000000" />
+    <LightDistance value="3970.000000" />
+    <LightColor value="0xFFA1D3FF" />
+    <CloudBurstCommonSettings>
+      <BurstDurationMin value="0.090000" />
+      <BurstDurationMax value="0.250000" />
+      <BurstSeqCount value="4" />
+      <RootOrbitXVariance value="36.000000" />
+      <RootOrbitYVarianceMin value="5.000000" />
+      <RootOrbitYVarianceMax value="30.000000" />
+      <LocalOrbitXVariance value="20.000000" />
+      <LocalOrbitYVariance value="5.000000" />
+      <BurstSeqOrbitXVariance value="4.600000" />
+      <BurstSeqOrbitYVariance value="3.600000" />
+      <DelayMin value="0.000000" />
+      <DelayMax value="2.000000" />
+      <SizeMin value="735.000000" />
+      <SizeMax value="2475.000000" />
+    </CloudBurstCommonSettings>
+  </CloudBurstSettings>
+  <StrikeSettings>
+    <IntensityMin value="180.000000" />
+    <IntensityMax value="240.000000" />
+    <IntensityMinClamp value="0.000000" />
+    <WidthMin value="0.099999" />
+    <WidthMax value="0.100000" /> 
+    <WidthMinClamp value="0.050000" />
+    <IntensityFlickerMin value="0.012000" />
+    <IntensityFlickerMax value="0.014000" />
+    <IntensityFlickerFrequency value="2.400000" />
+    <IntensityLevelDecayMin value="0.800000" />
+    <IntensityLevelDecayMax value="0.950000" />
+    <WidthLevelDecayMin value="0.800000" />
+    <WidthLevelDecayMax value="0.950000" />
+    <NoiseTexScale value="7.100000" />
+    <NoiseAmplitude value="7.000000" />
+    <NoiseAmpMinDistLerp value="2000.000000" />
+    <NoiseAmpMaxDistLerp value="10000.000000" />
+    <SubdivisionCount value="5" />
+    <OrbitDirXVariance value="20.000000" />
+    <OrbitDirYVarianceMin value="40.000000" />
+    <OrbitDirYVarianceMax value="70.000000" />
+    <MaxDistanceForExposureReset value="0.000000" />
+    <AngularWidthFactor value="0.025000" />
+    <MaxHeightForStrike value="100.000000" />
+    <CoronaIntensityMult value="0.230000" />
+    <BaseCoronaSize value="0.000000" />
+    <BaseColor value="0xFF3B3C68" />
+    <FogColor value="0xFF6274BA" />
+    <CloudLightIntensityMult value="2.000000" />
+    <CloudLightDeltaPos value="-1610.000000" />
+    <CloudLightRadius value="255.000000" />
+    <CloudLightFallOffExponent value="128.000000" />
+    <MaxDistanceForBurst value="5600.000000" />
+    <BurstThresholdIntensity value="0.400000" />
+    <LightningFadeWidth value="60.000000" />
+    <LightningFadeWidthFalloffExp value="5.000000" />
+    <variations>
+      <Item>
+        <DurationMin value="1.500000" />
+        <DurationMax value="2.500000" />
+        <AnimationTimeMin value="0.050000" />
+        <AnimationTimeMax value="0.200000" />
+        <EndPointOffsetXVariance value="0.300000" />
+        <SubdivisionPatternMask value="23" />
+        <ZigZagSplitPoint>
+          <FractionMin value="0.450000" />
+          <FractionMax value="0.550000" />
+          <DeviationDecay value="2.000000" />
+          <DeviationRightVariance value="0.300000" />
+        </ZigZagSplitPoint>
+        <ForkZigZagSplitPoint>
+          <FractionMin value="0.450000" />
+          <FractionMax value="0.550000" />
+          <DeviationDecay value="2.000000" />
+          <DeviationRightVariance value="0.300000" />
+        </ForkZigZagSplitPoint>
+        <ForkPoint>
+          <DeviationRightVariance value="0.600000" />
+          <DeviationForwardMin value="0.100000" />
+          <DeviationForwardMax value="0.300000" />
+          <LengthMin value="0.100000" />
+          <LengthMax value="0.500000" />
+          <LengthDecay value="2.000000" />
+        </ForkPoint>
+        <KeyFrameData>
+          <LightningMainIntensity>
+            <keyData>
+              <numKeyEntries value="18" />
+              <keyEntryData content="float_array">
+                0.000000	0.137931	0.413793	0.000000	0.000000	
+                0.062295	0.448276	0.795974	0.000000	0.000000	
+                0.083607	0.531874	0.926724	0.000000	0.000000	
+                0.133721	0.728448	0.935944	0.000000	0.000000	
+                0.177326	0.737366	0.943965	0.000000	0.000000	
+                0.218023	0.745690	0.935027	0.000000	0.000000	
+                0.257377	0.219828	0.926384	0.000000	0.000000	
+                0.295082	0.074424	0.918103	0.000000	0.000000	
+                0.306557	0.030172	0.774605	0.000000	0.000000	
+                0.362295	0.030172	0.077586	0.000000	0.000000	
+                0.454098	0.318965	0.918103	0.000000	0.000000	
+                0.513115	0.000000	0.393469	0.000000	0.000000	
+                0.557377	0.000000	0.000000	0.000000	0.000000	
+                0.639344	0.000000	0.862069	0.000000	0.000000	
+                0.655738	0.000000	0.821595	0.000000	0.000000	
+                0.714754	0.327586	0.675894	0.000000	0.000000	
+                0.932787	0.000000	0.137608	0.000000	0.000000	
+                0.988525	0.000000	0.000000	0.000000	0.000000	
+              </keyEntryData>
+            </keyData>
+          </LightningMainIntensity>
+          <LightningBranchIntensity>
+            <keyData>
+              <numKeyEntries value="6" />
+              <keyEntryData content="float_array">
+                0.000000	0.137931	0.534483	0.000000	0.000000	
+                0.091803	0.488736	0.892241	0.000000	0.000000	
+                0.122951	0.607759	0.842607	0.000000	0.000000	
+                0.160656	0.000000	0.782524	0.000000	0.000000	
+                0.254098	0.000000	0.633621	0.000000	0.000000	
+                0.370492	0.000000	0.000000	0.000000	0.000000	
+              </keyEntryData>
+            </keyData>
+          </LightningBranchIntensity>
+        </KeyFrameData>
+      </Item>
+      <Item>
+        <DurationMin value="1.500000" />
+        <DurationMax value="2.500000" />
+        <AnimationTimeMin value="0.050000" />
+        <AnimationTimeMax value="0.200000" />
+        <EndPointOffsetXVariance value="0.300000" />
+        <SubdivisionPatternMask value="255" />
+        <ZigZagSplitPoint>
+          <FractionMin value="0.450000" />
+          <FractionMax value="0.550000" />
+          <DeviationDecay value="2.000000" />
+          <DeviationRightVariance value="0.300000" />
+        </ZigZagSplitPoint>
+        <ForkZigZagSplitPoint>
+          <FractionMin value="0.450000" />
+          <FractionMax value="0.550000" />
+          <DeviationDecay value="2.000000" />
+          <DeviationRightVariance value="0.300000" />
+        </ForkZigZagSplitPoint>
+        <ForkPoint>
+          <DeviationRightVariance value="0.600000" />
+          <DeviationForwardMin value="0.100000" />
+          <DeviationForwardMax value="0.300000" />
+          <LengthMin value="0.100000" />
+          <LengthMax value="0.500000" />
+          <LengthDecay value="2.000000" />
+        </ForkPoint>
+        <KeyFrameData>
+          <LightningMainIntensity>
+            <keyData>
+              <numKeyEntries value="15" />
+              <keyEntryData content="float_array">
+                0.000000	0.137931	0.413793	0.000000	0.000000	
+                0.062295	0.448276	0.795974	0.000000	0.000000	
+                0.083607	0.455529	0.926724	0.000000	0.000000	
+                0.188953	0.491379	0.937818	0.000000	0.000000	
+                0.206395	0.507432	0.939655	0.000000	0.000000	
+                0.273256	0.568966	0.923407	0.000000	0.000000	
+                0.295082	0.590204	0.918103	0.000000	0.000000	
+                0.366279	0.659483	0.894640	0.000000	0.000000	
+                0.438953	0.586207	0.870690	0.000000	0.000000	
+                0.540698	0.413793	0.853448	0.000000	0.000000	
+                0.610465	0.538793	0.859545	0.000000	0.000000	
+                0.639344	0.480307	0.862069	0.000000	0.000000	
+                0.714754	0.327586	0.675894	0.000000	0.000000	
+                0.932787	0.000000	0.137608	0.000000	0.000000	
+                0.988525	0.000000	0.000000	0.000000	0.000000	
+              </keyEntryData>
+            </keyData>
+          </LightningMainIntensity>
+          <LightningBranchIntensity>
+            <keyData>
+              <numKeyEntries value="6" />
+              <keyEntryData content="float_array">
+                0.000000	0.137931	0.534483	0.000000	0.000000	
+                0.188953	0.324713	0.646552	0.000000	0.000000	
+                0.279070	0.413793	0.625645	0.000000	0.000000	
+                0.616279	0.117497	0.547414	0.000000	0.000000	
+                0.750000	0.000000	0.244028	0.000000	0.000000	
+                0.857558	0.000000	0.000000	0.000000	0.000000	
+              </keyEntryData>
+            </keyData>
+          </LightningBranchIntensity>
+        </KeyFrameData>
+      </Item>
+      <Item>
+        <DurationMin value="2.500000" />
+        <DurationMax value="4.500000" />
+        <AnimationTimeMin value="0.100000" />
+        <AnimationTimeMax value="0.400000" />
+        <EndPointOffsetXVariance value="0.300000" />
+        <SubdivisionPatternMask value="43" />
+        <ZigZagSplitPoint>
+          <FractionMin value="0.450000" />
+          <FractionMax value="0.550000" />
+          <DeviationDecay value="2.000000" />
+          <DeviationRightVariance value="0.300000" />
+        </ZigZagSplitPoint>
+        <ForkZigZagSplitPoint>
+          <FractionMin value="0.450000" />
+          <FractionMax value="0.550000" />
+          <DeviationDecay value="2.000000" />
+          <DeviationRightVariance value="0.300000" />
+        </ForkZigZagSplitPoint>
+        <ForkPoint>
+          <DeviationRightVariance value="0.600000" />
+          <DeviationForwardMin value="0.100000" />
+          <DeviationForwardMax value="0.300000" />
+          <LengthMin value="0.100000" />
+          <LengthMax value="0.500000" />
+          <LengthDecay value="2.000000" />
+        </ForkPoint>
+        <KeyFrameData>
+          <LightningMainIntensity>
+            <keyData>
+              <numKeyEntries value="19" />
+              <keyEntryData content="float_array">
+                0.000000	0.137931	0.413793	0.000000	0.000000	
+                0.062295	0.448276	0.795974	0.000000	0.000000	
+                0.083607	0.511344	0.926724	0.000000	0.000000	
+                0.159884	0.737069	0.950543	0.000000	0.000000	
+                0.180233	0.690301	0.956897	0.000000	0.000000	
+                0.218023	0.603448	0.944132	0.000000	0.000000	
+                0.266272	0.706897	0.927834	0.000000	0.000000	
+                0.295082	0.662592	0.918103	0.000000	0.000000	
+                0.319527	0.625000	0.918103	0.000000	0.000000	
+                0.362295	0.474138	0.918103	0.000000	0.000000	
+                0.393491	0.421408	0.831897	0.000000	0.000000	
+                0.454098	0.318965	0.690155	0.000000	0.000000	
+                0.505917	0.316118	0.568966	0.000000	0.000000	
+                0.532544	0.314655	0.555630	0.000000	0.000000	
+                0.615385	0.206897	0.514143	0.000000	0.000000	
+                0.695266	0.303917	0.474138	0.000000	0.000000	
+                0.714754	0.327586	0.442630	0.000000	0.000000	
+                0.932787	0.000000	0.090117	0.000000	0.000000	
+                0.988525	0.000000	0.000000	0.000000	0.000000	
+              </keyEntryData>
+            </keyData>
+          </LightningMainIntensity>
+          <LightningBranchIntensity>
+            <keyData>
+              <numKeyEntries value="5" />
+              <keyEntryData content="float_array">
+                0.000000	0.137931	0.534483	0.000000	0.000000	
+                0.072674	0.323276	0.508621	0.000000	0.000000	
+                0.160656	0.000000	0.416347	0.000000	0.000000	
+                0.191860	0.000000	0.383621	0.000000	0.000000	
+                0.370492	0.000000	0.000000	0.000000	0.000000	
+              </keyEntryData>
+            </keyData>
+          </LightningBranchIntensity>
+        </KeyFrameData>
+      </Item>
+    </variations>
+    <CloudBurstCommonSettings>
+      <BurstDurationMin value="0.090000" />
+      <BurstDurationMax value="0.250000" />
+      <BurstSeqCount value="5" />
+      <RootOrbitXVariance value="36.000000" />
+      <RootOrbitYVarianceMin value="5.000000" />
+      <RootOrbitYVarianceMax value="30.000000" />
+      <LocalOrbitXVariance value="10.000000" />
+      <LocalOrbitYVariance value="10.000000" />
+      <BurstSeqOrbitXVariance value="10.000000" />
+      <BurstSeqOrbitYVariance value="10.000000" />
+      <DelayMin value="0.000000" />
+      <DelayMax value="2.000000" />
+      <SizeMin value="2605.000000" />
+      <SizeMax value="2635.000000" />
+    </CloudBurstCommonSettings>
+  </StrikeSettings>
+</VfxLightningSettings>
+<!-- #♥FS-Graphics♥	 -->

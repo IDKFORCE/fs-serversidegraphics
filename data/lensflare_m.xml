@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- #♥FS-Graphics♥	 -->
+<CLensFlareSettings>
+  <arrFlareTypeFX>
+    <Item>
+      <arrFlareFX>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="1.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="5.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="0.125000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="1.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="3.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="0.290000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="1.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="3.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="0.500000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.800000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="4.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="-0.125000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="1.000000" />
+          <fIntensityFade value="1.000000" />
+          <fAnimorphicScaleFactorU value="3.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="-0.290000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="1.000000" />
+          <fIntensityFade value="2.900000" />
+          <fAnimorphicScaleFactorU value="3.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.025000" />
+          <fWidthRotate value="0.125000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.800000" />
+          <fAnimorphicScaleFactorV value="0.040000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.025000" />
+          <fWidthRotate value="-0.290000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.800000" />
+          <fAnimorphicScaleFactorV value="0.040000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.025000" />
+          <fWidthRotate value="0.500000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="1.000000" />
+          <fAnimorphicScaleFactorV value="0.040000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.025000" />
+          <fWidthRotate value="-0.125000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="1.000000" />
+          <fAnimorphicScaleFactorV value="0.040000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.025000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.800000" />
+          <fAnimorphicScaleFactorV value="0.040000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.025000" />
+          <fWidthRotate value="-0.290000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.800000" />
+          <fAnimorphicScaleFactorV value="0.040000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="3" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.570000" />
+          <fSize value="0.075000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF456AFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.575000" />
+          <fSize value="0.075000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="4.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF70AEFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.580000" />
+          <fSize value="0.075000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="2.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF59F1FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.100000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="1.000000" />
+          <fAnimorphicScaleFactorV value="0.200000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.507000" />
+          <fSize value="0.017000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="1.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.510000" />
+          <fSize value="0.013000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="2.900000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.512000" />
+          <fSize value="0.011000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.515000" />
+          <fSize value="0.009000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.518000" />
+          <fSize value="0.008000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="45.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.520000" />
+          <fSize value="0.007500" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="40.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.522000" />
+          <fSize value="0.007000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="35.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.524000" />
+          <fSize value="0.006700" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.526000" />
+          <fSize value="0.006700" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.528000" />
+          <fSize value="0.006700" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.250000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.100000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.510000" />
+          <fSize value="0.060000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF91A5FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.515000" />
+          <fSize value="0.060000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF738CFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.520000" />
+          <fSize value="0.060000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF143FFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.100000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.468000" />
+          <fSize value="0.014000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="100.000000" />
+          <fIntensityFade value="100.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF4791FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.467000" />
+          <fSize value="0.015000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6EBEFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.466000" />
+          <fSize value="0.016000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6ECCFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.466000" />
+          <fSize value="0.014000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6ECCFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.467000" />
+          <fSize value="0.012000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6ECCFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.468000" />
+          <fSize value="0.010000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6ECCFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.469000" />
+          <fSize value="0.008000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="1.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6ECCFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.471000" />
+          <fSize value="0.007000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="2.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6ECCFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.473000" />
+          <fSize value="0.006000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6ECCFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.475000" />
+          <fSize value="0.005000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF85D4FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.477000" />
+          <fSize value="0.004000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="60.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF91D9FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.479000" />
+          <fSize value="0.004000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="70.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFA8CEFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.481000" />
+          <fSize value="0.004000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF9CC3FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.100000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.168000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="100.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF4791FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.167000" />
+          <fSize value="0.031000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="15.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6EBEFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.166000" />
+          <fSize value="0.029000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6ECCFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.167000" />
+          <fSize value="0.024000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF458FFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.170000" />
+          <fSize value="0.021000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF4066FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.175000" />
+          <fSize value="0.019000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF4066FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.179000" />
+          <fSize value="0.017000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="1.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF4066FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.182000" />
+          <fSize value="0.015000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="2.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF458FFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.185000" />
+          <fSize value="0.012000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="25.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6392FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.188000" />
+          <fSize value="0.010000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF6E99FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.191000" />
+          <fSize value="0.009000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF7DBAFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.193000" />
+          <fSize value="0.008000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFA8CEFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.195000" />
+          <fSize value="0.007000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF9CC3FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.100000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.310000" />
+          <fSize value="0.120000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="5.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF47BFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.320000" />
+          <fSize value="0.110000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="6.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF69C8FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.330000" />
+          <fSize value="0.105000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="8.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF69E3FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.340000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF69FFC5" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.355000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="40.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF4F4FFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.100000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.350000" />
+          <fSize value="0.300000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="7.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF299BFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.100000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.475000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="5.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.675000" />
+          <fSize value="0.052500" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="15.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF5493FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.750000" />
+          <fSize value="0.037500" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF3B62FF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.700000" />
+          <fSize value="0.020000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFF145BFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.100000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="1.000000" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.175000" />
+          <fSize value="0.050000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="200.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFFFFFF" />
+          <fGradientMultiplier value="0.506000" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.170000" />
+          <fSize value="0.050000" />
+          <fWidthRotate value="0.000000" />
+          <fScrollSpeed value="0.150000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="100.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <bAlignRotationToSun value="false" />
+          <color value="0xFFFF0000" />
+          <fGradientMultiplier value="0.500000" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+          <fPositionOffsetU value="0.000000" />
+          <fTextureColorDesaturate value="0.000000" />
+        </Item>
+      </arrFlareFX>
+    </Item>
+  </arrFlareTypeFX>
+  <fSunVisibilityFactor value="0.500000" />
+  <iSunVisibilityAlphaClip value="10" />
+  <fSunFogFactor value="0.500000" />
+  <fChromaticTexUSize value="0.050000" />
+  <fExposureScaleFactor value="12.557490" />
+  <fExposureIntensityFactor value="0.010584" />
+  <fExposureRotationFactor value="0.500000" />
+  <fChromaticFadeFactor value="0.750000" />
+  <fArtefactDistanceFadeFactor value="2.000000" />
+  <fArtefactRotationFactor value="20.000000" />
+  <fArtefactScaleFactor value="2.000000" />
+  <fArtefactGradientFactor value="0.000000" />
+  <fCoronaDistanceAdditionalSize value="1.000000" />
+  <fMinExposureScale value="0.500000" />
+  <fMaxExposureScale value="1.000000" />
+  <fMinExposureIntensity value="0.500000" />
+  <fMaxExposureIntensity value="1.500000" />
+</CLensFlareSettings>
+<!-- #♥FS-Graphics♥	 -->

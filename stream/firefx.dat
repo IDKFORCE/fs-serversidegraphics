@@ -1,0 +1,87 @@
+FIREFX_INFO_START																																																																																																				
+																																																																																																								
+VOID					0.0		0.0		0.0		fire_map_slow
+GENERIC					0.0		0.0		0.0		fire_map_slow
+
+CONCRETE				150.0   150.0	150.0	fire_map_slow
+CONCRETE_DUSTY			150.0   150.0	150.0	fire_map_slow
+TARMAC					150.0   150.0	150.0	fire_map_slow
+TARMAC_BRITTLE		    150.0   150.0	150.0	fire_map_slow
+STONE					150.0   150.0	150.0	fire_map_slow
+BRICK					150.0   150.0	150.0	fire_map_slow
+MARBLE					150.0   150.0	150.0	fire_map_slow
+PAVING					150.0   150.0	150.0	fire_map_slow
+SANDSTONE				150.0   150.0	150.0	fire_map_slow
+SANDSTONE_BRITTLE		150.0   150.0	150.0	fire_map_slow
+
+SAND_LOOSE				150.0   150.0	150.0	fire_map_slow
+SAND_COMPACT			150.0   150.0	150.0	fire_map_slow
+SAND_WET				150.0   150.0	150.0	fire_map_slow
+SAND_UNDERWATER			150.0   150.0	150.0	fire_map_slow
+SAND_DEEP				150.0   150.0	150.0	fire_map_slow
+SAND_WET_DEEP			150.0   150.0	150.0	fire_map_slow
+ICE					    150.0   150.0	150.0	fire_map_slow
+SNOW_LOOSE				150.0   150.0	150.0	fire_map_slow
+SNOW_COMPACT			150.0   150.0	150.0	fire_map_slow
+GRAVEL					150.0   150.0	150.0	fire_map_slow
+GRAVEL_DEEP				150.0   150.0	150.0	fire_map_slow
+DIRT_DRY				150.0   150.0	150.0	fire_map_slow
+MUD_SOFT				150.0   150.0	150.0	fire_map_quick
+MUD_DEEP				150.0   150.0	150.0	fire_map_slow
+MUD_UNDERWATER			150.0   150.0	150.0	fire_map_slow
+CLAY					150.0   150.0	150.0	fire_map_slow
+
+GRASS					150.0   150.0	150.0	fire_map_quick
+GRASS_SHORT				150.0   150.0	150.0	fire_map_quick
+HAY					    150.0   150.0	150.0	fire_map_quick
+BUSHES					150.0   150.0	150.0	fire_map_quick
+TREE_BARK				150.0   150.0	150.0	fire_map_quick
+LEAVES					150.0   150.0	150.0	fire_map_quick
+
+METAL					150.0   150.0	150.0	fire_map_slow
+
+WOOD					150.0   150.0	150.0	fire_map_quick
+WOOD_DUSTY				150.0   150.0	150.0	fire_map_quick
+WOOD_SPLINTER			150.0   150.0	150.0   fire_map_quick
+
+CERAMIC					150.0   150.0	150.0	fire_map_slow
+CARPET_FABRIC			150.0   150.0	150.0	fire_map_slow
+CARPET_FABRIC_DUSTY		150.0   150.0	150.0	fire_map_slow
+PLASTIC					150.0   150.0	150.0	fire_map_slow
+PLASTIC_HOLLOW			150.0   150.0	150.0	fire_map_slow
+RUBBER					150.0   150.0	150.0	fire_map_slow
+LINOLEUM				150.0   150.0	150.0	fire_map_slow
+PLASTER_BRITTLE			150.0   150.0	150.0	fire_map_slow
+CARDBOARD				150.0   150.0	150.0	fire_map_quick
+PAPER					150.0   150.0	150.0	fire_map_quick
+FOAM					150.0   150.0	150.0	fire_map_quick
+FEATHERS				150.0   150.0	150.0	fire_map_quick
+TVSCREEN				150.0   150.0	150.0	fire_map_slow
+
+GLASS					150.0   150.0	150.0	fire_map_slow
+GLASS_BULLETPROOF		150.0   150.0	150.0	fire_map_slow
+
+CAR_METAL				150.0   150.0	150.0	fire_map_slow
+CAR_PLASTIC				150.0   150.0	150.0	fire_map_slow
+CAR_GLASS				150.0   150.0	150.0	fire_map_slow
+
+PUDDLE					150.0   150.0	150.0	fire_map_slow
+
+LIQUID_WATER			150.0   150.0	150.0	fire_map_slow
+LIQUID_BLOOD			150.0   150.0	150.0	fire_map_slow
+LIQUID_OIL				150.0   150.0	150.0	fire_map_slow
+LIQUID_PETROL			150.0   150.0	150.0	fire_map_slow
+LIQUID_MUD				150.0   150.0	150.0	fire_map_slow
+
+FRESH_MEAT				150.0   150.0	150.0   fire_map_slow
+DRIED_MEAT				150.0   150.0	150.0	fire_map_slow
+
+PED_HEAD				0.0		0.0		0.0		fire_map_slow
+PED_TORSO				0.0		0.5		0.5		fire_map_slow
+PED_LIMB				0.0		0.0		0.0		fire_map_slow
+PED_FOOT				0.0		0.0		0.0		fire_map_slow
+PED_CAPSULE				0.0		0.0		0.0		fire_map_slow
+
+FIREFX_INFO_END
+
+

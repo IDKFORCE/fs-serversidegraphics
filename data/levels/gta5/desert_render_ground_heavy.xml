@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__ptxgpuDropRenderSettings>
+  <textureRowsColsStartEnd x="1.000000" y="2.000000" z="0.000000" w="1.000000" />
+  <textureAnimRateScaleOverLifeStart2End2 x="0.000000" y="0.000000" z="0.000000" w="1.000000" />
+  <sizeMinMax x="18.000000" y="15.000000" z="6.000000" w="7.000000" />
+  <colour x="1.050000" y="0.975000" z="0.850000" w="0.800000" />
+  <fadeInOut x="3.000000" y="14.000000" />
+  <fadeNearFar x="5.000000" y="400.000000" />
+  <fadeGrdOffLoHi x="1.000000" y="-5.000000" z="1.000000" w="7.000000" />
+  <rotSpeedMinMax x="0.000000" y="0.000000" />
+  <directionalZOffsetMinMax x="0.000000" y="0.100000" z="0.100000" />
+  <dirVelAddCamSpeedMinMaxMult x="0.000000" y="0.000000" z="0.000000" />
+  <edgeSoftness value="9.900000" />
+  <particleColorPercentage value="0.000000" />
+  <backgroundDistortionVisibilityPercentage value="0.000000" />
+  <backgroundDistortionAlphaBooster value="1.000000" />
+  <backgroundDistortionAmount value="1.000000" />
+  <backgroundDistortionBlurLevel value="0" />
+  <localLightsMultiplier value="0.000000" />
+</rage__ptxgpuDropRenderSettings>

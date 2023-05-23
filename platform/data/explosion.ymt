@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- #♥FS-Graphics♥	 -->
+<CExplosionInfoManager>
+  <aExplosionTagData>
+    <Item>
+      <name>EXP_TAG_GRENADE</name>
+      <damageAtCentre value="100.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="5.000000" />
+      <initSpeed value="75.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="2.5" />
+      <fSelfForceModifier value="5.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GRENADE_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="5.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_GRENADE</vfxTagHashName>
+      <fragDamage value="2000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_GRENADELAUNCHER</name>
+      <damageAtCentre value="150.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="10.000000" />
+      <initSpeed value="75.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="0.5" />
+      <fSelfForceModifier value="0.500000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GRENADE_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="2.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_GRENADE</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_STICKYBOMB</name>
+      <damageAtCentre value="250.000000" />
+      <damageAtEdge value="10.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="10.000000" />
+      <initSpeed value="75.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="5.0000" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GRENADE_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_GRENADE</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="true" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_MOLOTOV</name>
+      <damageAtCentre value="500.000000" />
+      <damageAtEdge value="55.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="4.000000" />
+      <initSpeed value="80.000000" />
+      <decayFactor value="-0.500000" />
+      <forceFactor value="0.000005" />
+      <fRagdollForceModifier value="0.0003500" />
+      <fSelfForceModifier value="0.0005" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_MOLOTOV</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_ROCKET</name>
+      <damageAtCentre value="200.000000" />
+      <damageAtEdge value="8.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="10.000000" />
+      <initSpeed value="85.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="5.00000" />
+      <fSelfForceModifier value="0.500000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="2.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_ROCKET</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_TANKSHELL</name>
+      <damageAtCentre value="1000.000000" />
+      <damageAtEdge value="15.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="10.000000" />
+      <initSpeed value="85.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="1.000000" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.020000" />
+      <camShakeRollOffScaling value="1.250000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_TANKSHELL</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_HI_OCTANE</name>
+      <damageAtCentre value="100.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="15.000000" />
+      <initSpeed value="100.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="50.00000" />
+      <fSelfForceModifier value="45.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="3.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_GAS_CANISTER</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_CAR</name>
+      <damageAtCentre value="100.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="8.000000" />
+      <initSpeed value="85.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="1.0" />
+      <fSelfForceModifier value="0.550000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.005000" />
+      <camShakeRollOffScaling value="2.500000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_VEHICLE</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_PLANE</name>
+      <damageAtCentre value="250.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="30.000000" />
+      <initSpeed value="125.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="1.000000" />
+      <fSelfForceModifier value="0.055000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="2.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_PLANE</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_PETROL_PUMP</name>
+      <damageAtCentre value="125.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="30.000000" />
+      <initSpeed value="100.000000" />
+      <decayFactor value="-1.00000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="3.00000" />
+      <fSelfForceModifier value="4.50000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_PETROL_PUMP</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_BIKE</name>
+      <damageAtCentre value="50.000000" />
+      <damageAtEdge value="2.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="7.500000" />
+      <initSpeed value="75.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="0.5500" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_BIKE</vfxTagHashName>
+      <fragDamage value="1250.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_DIR_STEAM</name>
+      <damageAtCentre value="0.030000" />
+      <damageAtEdge value="0.030000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="5.000000" />
+      <initSpeed value="50.000000" />
+      <decayFactor value="-0.120000" />
+      <forceFactor value="1.000000" />
+      <fRagdollForceModifier value="0.003500" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.500000" />
+      <directedLifeTime value="6.000000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_DIR_STEAM</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="true" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_DIR_FLAME</name>
+      <damageAtCentre value="75.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="5.000000" />
+      <initSpeed value="35.000000" />
+      <decayFactor value="-0.250000" />
+      <forceFactor value="3.000000" />
+      <fRagdollForceModifier value="0.002000" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.500000" />
+      <directedLifeTime value="7.500000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_DIR_FLAME</vfxTagHashName>
+      <fragDamage value="50.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_DIR_WATER_HYDRANT</name>
+      <damageAtCentre value="0.000000" />
+      <damageAtEdge value="0.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="5.000000" />
+      <initSpeed value="60.000000" />
+      <decayFactor value="-0.100000" />
+      <forceFactor value="0.650000" />
+      <fRagdollForceModifier value="0.015000" />
+      <fSelfForceModifier value="0.015000" />
+      <directedWidth value="0.950000" />
+      <directedLifeTime value="150.000000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_DIR_WATER_HYDRANT</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="true" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_DIR_GAS_CANISTER</name>
+      <damageAtCentre value="75.000000" />
+      <damageAtEdge value="12.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="5.500000" />
+      <initSpeed value="50.000000" />
+      <decayFactor value="-0.250000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="5.25000" />
+      <fSelfForceModifier value="5.500000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.00000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_BIRDCRAP</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_BOAT</name>
+      <damageAtCentre value="80.000000" />
+      <damageAtEdge value="15.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="10.000000" />
+      <initSpeed value="75.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="0.055000" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.500000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_BOAT</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_SHIP_DESTROY</name>
+      <damageAtCentre value="500.000000" />
+      <damageAtEdge value="100.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="25.000000" />
+      <initSpeed value="100.000000" />
+      <decayFactor value="-1.200000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="0.001200" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.200000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_PLANE</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_TRUCK</name>
+      <damageAtCentre value="100.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="12.000000" />
+      <initSpeed value="85.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="1.00000" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.500000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_TRUCK</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_BULLET</name>
+      <damageAtCentre value="10.000000" />
+      <damageAtEdge value="1.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="2.000000" />
+      <initSpeed value="100.000000" />
+      <decayFactor value="1.000000" />
+      <forceFactor value="0.500000" />
+      <fRagdollForceModifier value="0.050000" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="1.000000" />
+      <camShakeName>GRENADE_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.00000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_BULLET</vfxTagHashName>
+      <fragDamage value="10.000000" />
+      <bAppliesContinuousDamage value="true" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_SMOKEGRENADELAUNCHER</name>
+      <damageAtCentre value="0.000000" />
+      <damageAtEdge value="0.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="6.000000" />
+      <initSpeed value="0.350000" />
+      <decayFactor value="0.250000" />
+      <forceFactor value="0.000000" />
+      <fRagdollForceModifier value="0.000000" />
+      <fSelfForceModifier value="0.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="25.000000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="10.000000" />
+      <shockingEventAudioRangeOverride value="5.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_SMOKE_GRENADE</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="false" />
+      <bOnlyAffectsLivePeds value="true" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_SMOKEGRENADE</name>
+      <damageAtCentre value="0.050000" />
+      <damageAtEdge value="0.005000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="10.000000" />
+      <initSpeed value="0.350000" />
+      <decayFactor value="0.250000" />
+      <forceFactor value="0.000000" />
+      <fRagdollForceModifier value="0.000000" />
+      <fSelfForceModifier value="0.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="40.000000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="10.000000" />
+      <shockingEventAudioRangeOverride value="5.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_BZGAS</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="true" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="false" />
+      <bOnlyAffectsLivePeds value="true" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_BZGAS</name>
+      <damageAtCentre value="0.200000" />
+      <damageAtEdge value="0.100000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="5.000000" />
+      <initSpeed value="0.350000" />
+      <decayFactor value="0.250000" />
+      <forceFactor value="0.000000" />
+      <fRagdollForceModifier value="0.000000" />
+      <fSelfForceModifier value="0.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="40.000000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="10.000000" />
+      <shockingEventAudioRangeOverride value="5.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_BZGAS</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="true" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="false" />
+      <bOnlyAffectsLivePeds value="true" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_FLARE</name>
+      <damageAtCentre value="0.500000" />
+      <damageAtEdge value="0.050000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="3.000000" />
+      <initSpeed value="0.350000" />
+      <decayFactor value="0.250000" />
+      <forceFactor value="0.000000" />
+      <fRagdollForceModifier value="0.000000" />
+      <fSelfForceModifier value="0.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="50.000000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="20.000000" />
+      <shockingEventAudioRangeOverride value="20.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_FLARE</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="true" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="false" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_GAS_CANISTER</name>
+      <damageAtCentre value="50.000000" />
+      <damageAtEdge value="75.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="3.000000" />
+      <initSpeed value="50.000000" />
+      <decayFactor value="-0.800000" />
+      <forceFactor value="75.000000" />
+      <fRagdollForceModifier value="0.3500" />
+      <fSelfForceModifier value="2.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GRENADE_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_GAS_CANISTER</vfxTagHashName>
+      <fragDamage value="100.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_EXTINGUISHER</name>
+      <damageAtCentre value="0.000000" />
+      <damageAtEdge value="0.000000" />
+      <networkPlayerModifier value="2.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="2.000000" />
+      <initSpeed value="50.000000" />
+      <decayFactor value="-0.120000" />
+      <forceFactor value="4.000000" />
+      <fRagdollForceModifier value="0.000000" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.500000" />
+      <directedLifeTime value="0.500000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_EXTINGUISHER</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_PROGRAMMABLEAR</name>
+      <damageAtCentre value="125.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="12.000000" />
+      <initSpeed value="50.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="0.001600" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GRENADE_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_BULLET</vfxTagHashName>
+      <fragDamage value="1.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_TRAIN</name>
+      <damageAtCentre value="225.000000" />
+      <damageAtEdge value="75.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="25.000000" />
+      <initSpeed value="100.000000" />
+      <decayFactor value="-0.800000" />
+      <forceFactor value="5.000000" />
+      <fRagdollForceModifier value="0.03500" />
+      <fSelfForceModifier value="0.005000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.500000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_TRAIN</vfxTagHashName>
+      <fragDamage value="2500.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_BARREL</name>
+      <damageAtCentre value="70.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="8.000000" />
+      <initSpeed value="75.000000" />
+      <decayFactor value="-0.800000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="0.3500" />
+      <fSelfForceModifier value="2.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_BARREL</vfxTagHashName>
+      <fragDamage value="500.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_PROPANE</name>
+      <damageAtCentre value="100.000000" />
+      <damageAtEdge value="15.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="15.000000" />
+      <initSpeed value="85.000000" />
+      <decayFactor value="-0.800000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="0.20000" />
+      <fSelfForceModifier value="0.150000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.080000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_PROPANE</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_BLIMP</name>
+      <damageAtCentre value="175.000000" />
+      <damageAtEdge value="75.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="25.000000" />
+      <initSpeed value="150.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="1.25000" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="4.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_BLIMP</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="true" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_DIR_FLAME_EXPLODE</name>
+      <damageAtCentre value="30.000000" />
+      <damageAtEdge value="4.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="2.500000" />
+      <initSpeed value="35.000000" />
+      <decayFactor value="-0.250000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="0.002000" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.500000" />
+      <directedLifeTime value="7.500000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_DIR_FLAME</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="true" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_TANKER</name>
+      <damageAtCentre value="75.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="22.500000" />
+      <initSpeed value="100.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="0.20000" />
+      <fSelfForceModifier value="0.100000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="4.500000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_TANKER</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_PLANE_ROCKET</name>
+      <damageAtCentre value="350.000000" />
+      <damageAtEdge value="10.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="15.000000" />
+      <initSpeed value="100.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="4.50000" />
+      <fSelfForceModifier value="3.500000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_PLANE_ROCKET</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_VEHICLE_BULLET</name>
+      <damageAtCentre value="125.000000" />
+      <damageAtEdge value="20.000000" />
+      <networkPlayerModifier value="2.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="2.000000" />
+      <initSpeed value="50.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="5.000000" />
+      <fRagdollForceModifier value="0.001600" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GRENADE_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_BULLET</vfxTagHashName>
+      <fragDamage value="500.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+    <Item>
+      <name>EXP_TAG_GAS_TANK</name>
+      <damageAtCentre value="125.000000" />
+      <damageAtEdge value="5.000000" />
+      <networkPlayerModifier value="2.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="25.000000" />
+      <initSpeed value="85.000000" />
+      <decayFactor value="-0.800000" />
+      <forceFactor value="10.000000" />
+      <fRagdollForceModifier value="1.0" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GAMEPLAY_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.050000" />
+      <camShakeRollOffScaling value="3.500000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_PROPANE</vfxTagHashName>
+      <fragDamage value="3000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+  </aExplosionTagData>
+</CExplosionInfoManager>
+<!-- #♥FS-Graphics♥	 -->
