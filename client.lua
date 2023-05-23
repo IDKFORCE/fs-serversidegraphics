@@ -1,18 +1,23 @@
 function stringsplit(inputstr, sep)
 	if sep == nil then
-		sep = "%s"
+	  sep = "%s"
 	end
-
-	local t={} ; i=1
-
+  
+	local t = {} ; i = 1
+  
+	if inputstr == nil then
+	  return t
+	end
+  
 	for str in string.gmatch(inputstr, "([^"..sep.."]+)") do
-		t[i] = str
-		i = i + 1
+	  t[i] = str
+	  i = i + 1
 	end
-
+  
 	return t
-end
-
+  end
+  
+   
 local function starts_with(str, start)
    return str:sub(1, #start) == start
 end
@@ -30,7 +35,7 @@ CreateThread(function()
 
 			if setting[1] ~= nil and setting[2] ~= nil and tonumber(setting[2]) ~= nil then
 				if setting[1] ~= 'weather.CycleDuration' then	
-					citizen.InvokeNative(GetHashKey('SET_VISUAL_SETTING_FLOAT') & 0xFFFFFFFF, setting[1], tonumber(setting[2])+.0)
+					Citizen.InvokeNative(GetHashKey('SET_VISUAL_SETTING_FLOAT') & 0xFFFFFFFF, setting[1], tonumber(setting[2])+.0)
 				end
 			end
 		end
