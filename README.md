@@ -8,4 +8,4 @@ FiveM Graphics Made By (⸸♱♥IDK_FORCE♥♱⸸#7611) (FiveM Graphics)
 - [Discord](https://discord.gg/UFng7DWnWP)
 
 
-![clientside](https://github.com/IDKFORCE/fs-graphics/)
+- [clientside](https://github.com/IDKFORCE/fs-graphics/)
