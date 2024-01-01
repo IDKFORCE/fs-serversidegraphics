@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- #♥FS-Graphics♥	 -->
+<rage__ptxgpuDropEmitterSettings>
+  <boxCentreOffset x="0.000000" y="12.000000" z="3.000000" />
+  <boxSize x="22.000000" y="24.000000" z="19.000000" />
+  <lifeMinMax x="0.150000" y="0.300000" />
+  <velocityMin x="0.000000" y="0.000000" z="0.000000" />
+  <velocityMax x="0.000000" y="0.000000" z="0.000000" />
+  <clampToGround value="true" />
+  <applyBounce value="false" />
+  <bounceDist value="0.000000" />
+  <bounceRestVel value="0.000000" />
+  <bounciness value="0.000000" />
+  <bounceRandom value="1.000000" />
+  <massMinMax x="0.000000" y="0.000000" />
+  <massExponentModifier value="0.000000" />
+  <windGlobalVariationMult value="1.000000" />
+  <windPositionalVariationMult value="1.000000" />
+  <windGustMult value="1.000000" />
+  <windDisturbanceMult value="1.000000" />
+  <noiseTexScale value="0.000000" />
+  <noiseAmplitudeHorizontal value="0.000000" />
+  <noiseAmplitudeVertical value="0.000000" />
+  <mistMapSpawnRejectionAmt value="0.250000" />
+  <limitAngle value="70.000000" />
+  <limitAngleVariation value="0.000000" />
+  <sheetRadiusMinMax x="0.000000" y="0.000000" />
+  <sheetIntervalMinMax x="0.000000" y="0.000000" />
+  <sheetBurstMinMax x="0.000000" y="0.000000" />
+  <timeModifiers>
+    <enabled value="false" />
+    <timeScaleMultiplier value="1.000000" />
+  </timeModifiers>
+</rage__ptxgpuDropEmitterSettings>

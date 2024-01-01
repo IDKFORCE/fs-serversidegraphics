@@ -1,0 +1,896 @@
+9.00
+
+
+# ID - 0001-9999
+
+
+DECAL_DEF_START
+
+
+########################
+# SPLATTERS
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+# BLOOD SPLATTERS                                                                                                                                                                                       
+1010			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	7   7	0.0		1.2		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	0   0	0.0		1.1		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	4   4	0.0		1.0		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	6   6	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	2   2	0.0		1.2		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	8   8	0.0		1.2		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	0   0	0.0		1.2		900.0   0.05	0.97 	1		0.0  	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	2   2	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	4   4	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	6   6	0.0		1.0		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	7   7	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	8   8	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	0   0	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	2   2	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	4   4	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	6   6	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	7   7	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	8   8	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	0   0	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	2   2	0.0		1.0		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	4   4	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	6   6	0.0		1.0		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	7   7	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1010			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	8   8	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0                                                                                
+# BLOOD DIRECTIONAL                                                                                                                                                                                     
+1015			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	7   7	0.0		1.2		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	0   0	0.0		1.1		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	4   4	0.0		1.0		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	6   6	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	2   2	0.0		1.2		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	8   8	0.0		1.2		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	2   2	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	4   4	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	6   6	0.0		1.0		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	7   7	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	8   8	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	0   0	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	2   2	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	4   4	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	6   6	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	7   7	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	8   8	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	0   0	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	2   2	0.0		1.0		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	4   4	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015 			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	6   6	0.0		1.0		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	7   7	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1015			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	8   8	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+# BLOOD MIST                                                                                                                                                                                            
+1017			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	7   7	0.0		1.2		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	0   0	0.0		1.1		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	4   4	0.0		1.0		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	6   6	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	2   2	0.0		1.2		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	8   8	0.0		1.2		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	0   0	0.0		1.2		900.0   0.05	0.97 	1		0.0  	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	2   2	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	4   4	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	6   6	0.0		1.0		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	7   7	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n		fxdecal_splatter_mist2_s	3   3	8   8	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	0   0	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	2   2	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	4   4	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	6   6	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	7   7	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist3			fxdecal_splatter_mist3_n		fxdecal_splatter_mist3_s	3   3	8   8	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	0   0	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	1   1	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	2   2	0.0		1.0		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	3   3	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	4   4	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	5   5	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	6   6	0.0		1.0		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	7   7	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+1017			fxdecal_splatter_mist4			fxdecal_splatter_mist4_n		fxdecal_splatter_mist4_s	3   3	8   8	0.0		1.2		900.0   0.05	0.97 	1		0.0 	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+# MUD SPLATTERS                                                                                                                                                                                         
+1020			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n			fxdecal_splatter_mist2_s		3   3	4   4	0.0		1.0		450.0	0.1		0.99	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# PAINT SPLATTERS                                                                                                                                                                                       
+1030			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n			fxdecal_splatter_mist2_s		3   3	4   4	0.0		1.0		510.0	0.2		0.99	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# WATER SPLATTERS                                                                                                                                                                                       
+1040			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n			fxdecal_splatter_mist2_s		3   3	4   4	0.0		1.0		510.0  980.00	1.3 	0		0.0  	0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# WATER HYDRANT DECALS                                                                                                                                                                                  
+1050			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n			fxdecal_splatter_mist2_s		3   3	4   4	0.0		1.0		510.0  980.00	1.3 	0		0.0  	0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# SCRIPTED SPLATTERS                                                                                                                                                                                    
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+# BLOOD SPLATTERS                                                                                                                                                                                       
+1110			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	6   6	0.0		1.3		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+1110			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	7   7	0.0		1.3		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+1110			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	8   8	0.0		1.3		810.0	0.05	0.97	1		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# HUMAN FOOTPRINTS - THESE DECALS ARE REFERENCED BY THE VFXPEDINFO.META                                                                                                                                 
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+##### HUMAN #####                                                                                                                                                                                       
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+### SHOE ###                                                                                                                                                                                            
+                                                                                                                                                                                                        
+# GRASS FOOTPRINTS                                                                                                                                                                                      
+2005			fxdecal_footprints				fxdecal_footprints_n			-							2   8	6   6	0.0		1.0		510.0	0.1		0.98	1		0.04	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# MUD FOOTPRINTS                                                                                                                                                                                        
+2010			fxdecal_footprints				fxdecal_footprints_n			-							2   8	10  10	0.0		1.35 	510.0	0.1		0.98	1		0.0325	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# SAND FOOTPRINTS                                                                                                                                                                                       
+2020			fxdecal_footprints				fxdecal_footprints_n			-							2   8	10  10	0.0		1.35 	510.0	0.0		0.98	1		0.0325 	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# SAND DEEP FOOTPRINTS                                                                                                                                                                                  
+2025			fxdecal_footprints				fxdecal_footprints_n			-							2	8	13  13	0.0		1.5		0.0		0.0		0.97	1		0.0425	0.0     	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# DIRT FOOTPRINTS                                                                                                                                                                                       
+2030			fxdecal_footprints				fxdecal_footprints_n			-							2   8	10  10	0.0		1.35	0.0		0.0		0.97	1		0.0325	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# SNOW FOOTPRINTS                                                                                                                                                                                       
+2035			fxdecal_footprints				fxdecal_footprints_n			-							2   8	10  10	0.0		1.35	0.0		0.0		0.97	1		0.0325	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+### SHOE TRANSFERRANCE ###                                                                                                                                                                              
+                                                                                                                                                                                                        
+# BLOOD TRANSFER                                                                                                                                                                                        
+2040			fxdecal_footprints				 fxdecal_footprints_n			-							2   8	12  12 	0.0		1.2		510.0	0.2	    0.98	1		0.06	0.0	    	0.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+# OIL TRANSFER                                                                                                                                                                                          
+2050			fxdecal_footprints				fxdecal_footprints_n			-							2   8	11  11	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# PETROL TRANSFER                                                                                                                                                                                       
+2060			fxdecal_footprints				fxdecal_footprints_n			-							2   8	12  12	0.0		1.0		510.0	0.35	0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# MUD TRANSFER                                                                                                                                                                                          
+2070			fxdecal_footprints				fxdecal_footprints_n			-							2   8	11  11	0.0		1.0		510.0	0.1		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# WATER TRANSFER                                                                                                                                                                                        
+2080			fxdecal_footprints				fxdecal_footprints_n			-							2   8	11  11	0.0		1.0		310.0	0.2		0.65	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+### BAREFOOT ###                                                                                                                                                                                        
+                                                                                                                                                                                                        
+# MUD FOOTPRINTS                                                                                                                                                                                        
+2110			fxdecal_footprints				fxdecal_footprints_n			-							2   8	1   1	0.0		1.0		510.0	0.1		0.98	1		0.0425	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# SAND FOOTPRINTS                                                                                                                                                                                       
+2120			fxdecal_footprints				fxdecal_footprints_n			-							2   8	1   1	0.0		1.0		0.0		0.0		0.97	1		0.0425	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# DIRT FOOTPRINTS                                                                                                                                                                                       
+2130			fxdecal_footprints				fxdecal_footprints_n			-							2   8	1   1	0.0		1.0		0.0		0.0		0.97	1		0.0425	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# SNOW FOOTPRINTS                                                                                                                                                                                       
+2135			fxdecal_footprints				fxdecal_footprints_n			-							2   8	1   1	0.0		1.0		0.0		0.0		0.97	1		0.0425	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+### BAREFOOT TRANSFERRANCE ###                                                                                                                                                                          
+                                                                                                                                                                                                        
+# BLOOD TRANSFER                                                                                                                                                                                        
+2140			fxdecal_footprints				fxdecal_footprints_n			-							2   8	2   2	0.0		1.3		800.0	0.9		0.99	1		0.4		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# OIL TRANSFER                                                                                                                                                                                          
+2150			fxdecal_footprints				fxdecal_footprints_n			-							2   8	2   2	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# PETROL TRANSFER                                                                                                                                                                                       
+2160			fxdecal_footprints				fxdecal_footprints_n			-							2   8	3   3	0.0		1.0		510.0	0.35	0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# MUD TRANSFER                                                                                                                                                                                          
+2170			fxdecal_footprints				fxdecal_footprints_n			-							2   8	2   2	0.0		1.0		510.0	0.1		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# WATER TRANSFER                                                                                                                                                                                        
+2180			fxdecal_footprints				fxdecal_footprints_n			-							2   8	3   3	0.0		1.0		00.0	0.6		0.3		0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+### FLIPPER ###                                                                                                                                                                                         
+                                                                                                                                                                                                        
+# GENERIC FLIPPER                                                                                                                                                                                       
+2181			fxdecal_footprints				fxdecal_footprints_n			-							2   8	15  15	0.0		1.0 	510.0	0.0		0.98	1		0.0325 	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+### HEEL ###                                                                                                                                                                                            
+                                                                                                                                                                                                        
+# GENERIC HEEL                                                                                                                                                                                          
+2185			fxdecal_footprints				fxdecal_footprints_n			-							2   8	7   7 	0.0		1.0 	510.0	0.0		0.98	1		0.0325 	0.0	    	0.0	    	0	    	0			1			1		0	
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+### WADE ###                                                                                                                                                                                            
+                                                                                                                                                                                                        
+# SNOW WADE #                                                                                                                                                                                           
+2190			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	2	2	0.0		1.0		510.0	0.1		0.98	0		0.04	0.0	    	1.00		0		    1			1			1		0
+                                                                                                                                                                                                        
+# SAND WADE #                                                                                                                                                                                           
+2195			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	2	2	0.0		1.0		510.0	0.0		0.98	0		0.04	0.0	    	1.00		0		    1			1			1		0
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# COW_PIG_DEER FOOTPRINTS - THESE DECALS ARE REFERENCED BY THE VFXPEDINFO.META                                                                                                                          
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+# MUD                                                                                                                                                                                                   
+2201			fxdecal_footprints				fxdecal_footprints_n			-							2   8	 5   5	0.0		1.5		510.0	0.1		0.98	0		0.0		0.0			0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# DOG_CAT_RAT FOOTPRINTS - THESE DECALS ARE REFERENCED BY THE VFXPEDINFO.META                                                                                                                           
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+# MUD                                                                                                                                                                                                   
+2202			fxdecal_footprints				fxdecal_footprints_n			-							2   8	 14  14	0.0		1.6		510.0	0.1		0.98	0		0.0		0.0			0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# HORSE FOOTPRINTS - THESE DECALS ARE REFERENCED BY THE VFXPEDINFO.META                                                                                                                                 
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+# MUD                                                                                                                                                                                                   
+2205			fxdecal_footprints				fxdecal_footprints_n			-							2   8	8   8	0.0		2.8		510.0	0.1		0.98	0		0.0		0.0			0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# TYRE SKIDMARKS - THESE DECALS ARE REFERENCED BY THE VEHICLEFX.DAT                                                                                                                                     
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+# HARD SKID                                                                                                                                                                                             
+3010			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	0   0	0.0		1.0		 0.0	0.0		0.97	0		0.0		0.0	    	1.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+# SAND TREAD                                                                                                                                                                                            
+3011			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	6   6	0.0		1.0      0.0	0.0		0.97	1		0.02 	0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# MUD TREAD                                                                                                                                                                                             
+3012			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	2   2	0.0		1.0		110.0	0.1		0.98	1		0.06	0.0	    	2.5	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# DIRT SKID  [GRASS & DIRT_DRY]                                                                                                                                                                         
+3013			fxdecal_tyre_02					fxdecal_tyre_01_n				-							1   8	6   6	0.0		1.0		  0.0	0.0		0.97	1		0.04	0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# SNOW TREAD                                                                                                                                                                                            
+3014			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	4   4	0.0		1.0		  0.0	0.0		0.97	1		0.01	0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# SAND TREAD DEEP                                                                                                                                                                                       
+3015			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	1   1	0.0		1.0       0.0	0.0		0.97	1		0.01 	0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# SAND TREAD DEEP BIKE                                                                                                                                                                                  
+3018			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	3   3	0.0		1.0       0.0	0.0		0.97	1		0.01 	0.0	    	2.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# MARSH TREAD DEEP BIKE                                                                                                                                                                                 
+3016			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	2   2	0.0		1.5     510.0	0.2		0.87	1		0.04 	0.0	    	2.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# MARSH TREAD DEEP VEHICLE                                                                                                                                                                              
+3017			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	3   3	0.0		1.5     510.0	0.2		0.87	1		0.04
+ 	0.0	    	2.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# MARSH TREAD DEEP VEHICLE                                                                                                                                                                              
+3019			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	3   3	0.0		1.5     510.0	0.0		0.87	1		0.04 	0.0	    	2.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# BLOOD TRANSFER                                                                                                                                                                                        
+3100			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	4   4	0.0		1.2		510.0	0.2		0.99	0		0.0		0.0	    	1.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# OIL TRANSFER                                                                                                                                                                                          
+3101			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	4   4	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# PETROL TRANSFER                                                                                                                                                                                       
+3102			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	6   6	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# MUD TRANSFER                                                                                                                                                                                          
+3103			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	6   6	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# WATER TRANSFER                                                                                                                                                                                        
+3104			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	6   6	0.0		1.0		310.0	0.1		0.80	0		0.0		0.0	    	1.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# Tank Treads - THESE DECALS ARE REFERENCED BY THE VEHICLEFX.DAT                                                                                                                                        
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+# TANK TREAD GENERIC                                                                                                                                                                                    
+3200			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	0   0	0.0		1.25    510.0	 0.00	0.97	1		0.01 	0.0	    	1.75		0		    0			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# RIMS - THESE DECALS ARE REFERENCED BY THE VEHICLEFX.DAT                                                                                                                                               
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+# RIMS HARD                                                                                                                                                                                             
+3050			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	1   1	0.0		1.0		0.0		0.0		0.97	1		0.02	0.0	    	1.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+# RIMS SAND                                                                                                                                                                                             
+3051			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	5   5	0.0		1.0		0.0		0.0		0.97	1		0.02	0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# RIMS MUD                                                                                                                                                                                              
+3052			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	3   3	0.0		1.0		510.0	0.1		0.98	1		0.03	0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# RIMS DIRT  [GRASS & DIRT_DRY]                                                                                                                                                                         
+3053			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	7   7	0.0		1.0		0.0		0.0		0.97	1		0.02	0.0	    	1.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# RIMS SNOW                                                                                                                                                                                             
+3054			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	5   5	0.0		1.0		0.0		0.0		0.97	1		0.02	0.0	    	1.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+# RIMS BLOOD TRANSFER                                                                                                                                                                                   
+3060			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	5   5	0.0		1.0		510.0	0.2		0.99	0		0.0		0.0	    	1.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+# RIMS OIL TRANSFER                                                                                                                                                                                     
+3061			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	5   5	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	1.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+# RIMS PETROL TRANSFER                                                                                                                                                                                  
+3062			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	7   7	0.0		1.0		510.0	0.35	0.98	0		0.0		0.0	    	1.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+# RIMS MUD TRANSFER                                                                                                                                                                                     
+3063			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   8	5   5	0.0		1.0		510.0	0.1		0.98	0		0.0		0.0	    	1.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+# RIMS WATER TRANSFER                                                                                                                                                                                   
+3064			fxdecal_tyre_02					fxdecal_tyre_02_n				-							1   8	7   7	0.0		1.0		200.0	0.6		0.3		0		0.0		0.0	    	1.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# WEAPON IMPACTS - THESE DECALS ARE REFERENCED BY THE WEAPONFX.DAT                                                                                                                                      
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+#METAL                                                                                                                                                                                                  
+4010			fxdecal_metal				        fxdecal_metal_n					-						2   2	0   0	0.0		0.7		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_metal				        fxdecal_metal_n					 -						2   2	1   1	0.0		0.7		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_metal				        fxdecal_metal_n					-						2   2	2   2	0.0		0.7		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_metal			            fxdecal_metal_n				  -						    2   2	3   3	0.0		1.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	15  15	0.0		1.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	16  16	0.0		1.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	17  17	0.0		1.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_bullet_bangs2			fxdecal_bullet_bangs2_n				-						4   8	15  15	0.0		1.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_bullet_bangs2			fxdecal_bullet_bangs2_n				-						4   8	16  16	0.0		1.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_bullet_bangs2			fxdecal_bullet_bangs2_n				-						4   8	17  17	0.0		1.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			d_lc_metal_thin01			        d_lc_metal_thin01_n		       -						2   2	0   0	0.0		0.8		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			d_lc_metal_thin01			        d_lc_metal_thin01_n		       -						2   2	2   2	0.0		0.8		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			d_lc_metal_thin01			        d_lc_metal_thin01_n		       -						2   2	3   3	0.0		0.8		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_metal2				        fxdecal_metal2_n					-					2   2	1   1	0.0		0.9		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_metal2				        fxdecal_metal2_n					-					2   2	2   2	0.0		0.9		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			fxdecal_metal2				        fxdecal_metal2_n					-					2   2	3   3	0.0		0.9		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			Bullet-Hole-9				        Bullet-Hole-9_n					-					    2   2	0   0	0.0		2.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			Bullet-Hole-9				        Bullet-Hole-9_n					-					    2   2	1   1	0.0		2.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			Bullet-Hole-9				        Bullet-Hole-9_n					-					    2   2	2   2	0.0		2.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			Bullet-Hole-9				        Bullet-Hole-9_n					-					    2   2	3   3	0.0		2.0		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			Bullet-Hole-11				        Bullet-Hole-11_n					-					1   1	0   0	0.0		0.8		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			Bullet-Hole-12				        Bullet-Hole-12_n					-					1   1	0   0	0.0		0.8		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4010			Bullet-Hole-13				        Bullet-Hole-13_n					-					1   1	0   0	0.0		0.8		128.0	0.3		0.7		1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+
+#BRICK - CONCRETE - PLASTER                                                                                                                                                                             
+4020			fxdecal_concrete			    fxdecal_concrete_n				    -						2   2	0   0	0.0		1.2		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4020			fxdecal_concrete			    fxdecal_concrete_n				    -						2   2	1   1	0.0		1.2		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4020			fxdecal_concrete			    fxdecal_concrete_n				    -						2   2	2   2	0.0		1.2		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4020			fxdecal_concrete			    fxdecal_concrete_n				    -						2   2	3   3	0.0		1.2		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4020			fxdecal_bullet_bangs2			fxdecal_bullet_bangs2_n				-						4   8	21  21	0.0		1.2		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete1			            concrete1_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete2			            concrete2_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete3			            concrete3_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete4			            concrete4_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete5			            concrete5_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete6			            concrete6_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete7			            concrete7_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete8			            concrete8_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete9			            concrete9_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete10			            concrete10_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+4020			concrete11			            concrete11_n				            -						1   1	0   0	0.0		1.2		0.0		0.0		0.98	1		0.03	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                     
+#MATTRESS FOAM                                                                                                                                                                                          
+4030			fxdecal_bullet_bangs2			fxdecal_bullet_bangs2_n				-						4   8	22  22	0.0		1.2		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4030			fxdecal_bullet_bangs2			fxdecal_bullet_bangs2_n				-						4   8	31  31	0.0		1.2		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#MUD - DIRT DRY                                                                                                                                                                                         
+4032			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	23  23	0.0		1.2		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4032			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	24  24	0.0		1.2		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#WOOD														                                                                                                                                            
+4050			fxdecal_wood			        fxdecal_wood_n       				-						2   2	0   0	0.0		1.1		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4050			fxdecal_wood			        fxdecal_wood_n       				-						2   2	1   1	0.0		1.1		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4050			fxdecal_wood			        fxdecal_wood_n       				-						2   2	2   2	0.0		1.1		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4050			fxdecal_wood			        fxdecal_wood_n       				-						2   2	3   3	0.0		1.1		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0     
+#SAND LOOSE - COMPACT - WET                                                                                                                                                                             
+4053			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	21  21	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+#CARDBOARD                                                                                                                                                                                              
+4040			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	25  25	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4040			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	26  26	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4040			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	27  27	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0                                                                                                                                                                                                       
+#MELEE GLASS                                                                                                                                                                                            
+4100			fxdecal_glass					fxdecal_glass_n					fxdecal_glass_s				2   4	0   0	0.0		1.0		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4100			fxdecal_glass					fxdecal_glass_n					fxdecal_glass_s				2   4   1   1	0.0		1.0		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#BULLET GLASS WITH BLOOD VARIATION                                                                                                                                                                      
+4104			fxdecal_glass					fxdecal_glass_n						-						2   4   2   2	0.0		0.3		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4104			fxdecal_glass					fxdecal_glass_n						-						2   4   2   2	0.0		0.3		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4104			materials_11					materials_11_n						-						2   2   2   2	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4104			materials_11					materials_11_n						-						2   2   3   3	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4104			materials_12					materials_12_n						-						1   1   0   0	0.0		0.3		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			fxdecal_glass					fxdecal_glass_n						-						2   4   0   0	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			fxdecal_glass					fxdecal_glass_n						-						2   4   1   1	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			fxdecal_glass					fxdecal_glass_n						-						2   4   3   3	0.0		0.3		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			fxdecal_glass					fxdecal_glass_n						-						2   4   4   4	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			fxdecal_glass					fxdecal_glass_n						-						2   4   5   5	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			fxdecal2_glass       			fxdecal2_glass_n        			-						2   2   0   0	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			fxdecal2_glass       			fxdecal2_glass_n        			-						2   2   1   1	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			materials_10					materials_10_normal					-						2   2   1   1	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			materials_10					materials_10_normal					-						2   2   3   3	0.0		0.2		910.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4102			Bullet-Hole-10				    Bullet-Hole-10_n					-					    1   1	0   0	0.0		0.2		910.0	0.9		0.98	0		0.0	    0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                   
+#SHOTGUN - PAPER                                                                                                                                                                                        
+4200			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n				-						2   4   0   0	0.0		1.1		100.0	0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#SHOTGUN - MATTRESS                                                                                                                                                                                     
+4201			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n				-						2   4   1   1	0.0		1.9		100.0	0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#SHOTGUN - METAL - PLASTIC                                                                                                                                                                              
+4202			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n				-						2   4   2   2	0.0		1.8		950.0	0.4		0.98	1		0.04	0.0	    	0.0	    	0	    	0			1			0		0
+4202			fxdecal_bul_shotgun2			fxdecal_bul_shotgun2_n				-						2   4   2   2	0.0		1.5		950.0	0.4 	0.98	1		0.04	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#SHOTGUN - WOOD                                                                                                                                                                                         
+4203			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n				-						2   4   3   3	0.0		1.3		100.0	0.01	0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#SHOTGUN - DIRT                                                                                                                                                                                         
+4204			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n				-						2   4   4   4	0.0		1.6		100.0	0.01	0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#SHOTGUN - TV SCREEN - GLASS                                                                                                                                                                            
+4205			fxdecal_glass					fxdecal_glass_n					fxdecal_glass_s				2   4   6   6	0.0		1.2		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4205			fxdecal_glass					fxdecal_glass_n					fxdecal_glass_s				2   4   7   7	0.0		1.2		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4205			glass_shotgun3					glass_shotgun3_n					-          				2   2   2   2	0.0		1.2		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4205			glass_shotgun3					glass_shotgun3_n					-          				2   2   3   3	0.0		1.2		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4205			glass_shotgun					glass_shotgun_n					    -          				2   2   2   2	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4205			glass_shotgun					glass_shotgun_n					    -          				2   2   3   3	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4205			glass_shotgun2					glass_shotgun2_n					-          				2   2   2   2	0.0		1.2		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4206			glass_shotgun3					glass_shotgun3_n					-          				2   2   0   0	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4206			glass_shotgun3					glass_shotgun3_n					-          				2   2   1   1	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4207			glass_shotgun					glass_shotgun_n					    -          				2   2   0   0	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4207			glass_shotgun					glass_shotgun_n					    -          				2   2   1   1	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4207			glass_shotgun2					glass_shotgun2_n					-          				2   2   0   0	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4207			glass_shotgun2					glass_shotgun2_n					-          				2   2   1   1	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4207			glass_shotgun3					glass_shotgun3_n					-          				2   2   0   0	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4207			glass_shotgun3					glass_shotgun3_n					-          				2   2   1   1	0.0		1.3		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0                                                                                                                                                                                                 
+#MELEE - CONCRETE                                                                                                                                                                                       
+4310			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8   3   3	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4310			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8   4   4	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#MELEE - WOOD                                                                                                                                                                                           
+4312			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8   7   7	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4312			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8   8   8	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#MELEE - METAL                                                                                                                                                                                          
+4314			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8   11  11	0.0		1.0		100.0	0.4		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4314			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8   12  12	0.0		1.0		100.0	0.4		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+#THIS DECAL ISN'T REFERENCED IN ANY PTXRULES OR WEAPONFX DATA                                                                                                                                           
+4420			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8	0   0	0.0		4.0		0.0		0.0		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0                                                                                                                                                                                                        
+#BURN SCORTCH MARKS                                                                                                                                                                                     
+4421			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8   0   0	0.0		1.0		0.0		0.0		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+4422			fxdecal_concrete_impact			fxdecal_concrete_impact_n			-						1   2   0   0	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4422			fxdecal_concrete_impact			fxdecal_concrete_impact_n			-						1   2   1   1	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4422			fxdecal_concrete_impact2		fxdecal_concrete_impact2_n			-						1   1   0   0	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4424			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8   1   1	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+4425			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n				-						4   8   2   2	0.0		1.0		0.0		0.0		0.98	1		0.02	0.0	    	0.0	    	0	    	0			1			0		0
+
+########################                                                                                                                                                                                
+# BANGS - THESE DECALS ARE REFERENCED BY THE MATERIALFX.DAT                                                                                                                                             
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+5000			fxdecal_concrete_bang			fxdecal_concrete_bang_n			-							1   2   0   0	0.0		1.2		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5001			fxdecal_concrete_bang			fxdecal_concrete_bang_n			-							1   2	1   1	0.0		1.2		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5002			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							4   8	5   5	0.0		1.1		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5004			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							4   8	6   6	0.0		1.1		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+5010			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							4   8	7   7	0.0		1.1		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5011			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							4   8	8   8	0.0		1.1		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5012			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							4   8   9   9	0.0		1.1		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5013			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							4   8   10  10	0.0		1.1		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+5020			fxdecal_bangs					fxdecal_bangs_n					-							2   2	0   0	0.0		2.0		510.0	0.6		0.99	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5021			fxdecal_bangs					fxdecal_bangs_n					-							2   2	1   1	0.0		2.0		510.0	0.6		0.99	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5022			fxdecal_bangs					fxdecal_bangs_n					-							2   2	2   2	0.0		2.0		510.0	0.6		0.99	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+5023			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							4   8	14  14	0.0		1.1		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5030			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							4   8	22  22	0.0		1.1		0.0		0.0		0.97	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5031			fxdecal_glass					fxdecal_glass_n					fxdecal_glass_s				2   4	0   0	0.0		1.1		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+5032			fxdecal_glass					fxdecal_glass_n					fxdecal_glass_s				2   4	1   1	0.0		1.1		510.0	0.9		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+5040			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n			fxdecal_splatter_mist2_s		3   3	6  	6	0.0		2.7		950.0	0.2		0.99	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+5041			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n			fxdecal_splatter_mist2_s		3   3	7	7	0.0		2.7		950.0	0.2		0.99	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+5042			fxdecal_splatter_mist2			fxdecal_splatter_mist2_n			fxdecal_splatter_mist2_s		3   3	8	8	0.0		2.7		950.0	0.2		0.99	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# SCRAPES - THESE DECALS ARE REFERENCED BY THE MATERIALFX.DAT                                                                                                                                           
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+5050			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   16	0   0	0.0		1.0		0.0		0.0		0.97	0		0.0		0.0	    	1.0	    	0	    	1			1			0		0
+5050			fxdecal_tyre_01					fxdecal_tyre_01_n				-							1   16	1   1	0.0		1.0		0.0		0.0		0.97	0		0.0		0.0	    	1.0	    	0	    	1			1			0		0
+													                                                                                                                                                    
+5070			fxdecal_scrapes					fxdecal_scrapes_n				-							1   4	0   0	0.0		1.5		510.0	0.1		1.00	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5071			fxdecal_scrapes					fxdecal_scrapes_n				-							1   4	1   1	0.0		1.5		510.0	0.1		1.00	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5072			fxdecal_scrapes					fxdecal_scrapes_n				-							1   4	2   2	0.0		1.5		510.0	0.1		1.00	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+5073			fxdecal_scrapes					fxdecal_scrapes_n				-							1   4	3   3	0.0		1.5		510.0	0.1		1.00	1		0.01	0.0	    	0.0	    	0	    	0			1			0		0
+		                                                                                                                                                                                                
+													                                                                                                                                                    
+5100			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	0   0	0.0		2.7		950.0	0.10	0.97	1		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+5101			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	1   1	0.0		2.7		950.0	0.10	0.97	1		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+5101			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	2   2	0.0		2.7		950.0	0.10	0.97	1		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# SCRIPTED SCUFFS [MOPPING IN THE AGENCY HEIST]                                                                                                                                                         
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+7800			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n			fxdecal_bul_shotgun_s		2   4	5   5	0.0		0.6		500.0	0.02	0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+7800			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n			fxdecal_bul_shotgun_s		2   4	5   5	0.0		1.0		500.0	0.02	0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+7801			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n			fxdecal_bul_shotgun_s		2   4	6   6	0.0		1.1		500.0	0.02	0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+7801			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n			fxdecal_bul_shotgun_s		2   4	6   6	0.0		2.0		500.0	0.02	0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+7802			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n			fxdecal_bul_shotgun_s		2   4	5   5	0.0		1.1		500.0	0.02	0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+7802			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n			fxdecal_bul_shotgun_s		2   4	6   6	0.0		2.0		500.0	0.02	0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+7803			fxdecal_bul_shotgun				fxdecal_bul_shotgun_n			fxdecal_bul_shotgun_s		2   4	7   7 	0.0		1.0		500.0	0.02	0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# LASER SIGHTED WEAPON - THESE DECALS ARE REFERENCED BY CODE. IF THEY CHANGE, THE CODE NEEDS TO BE UPDATED TOO!!                                                                                        
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+#8000			fxdecal_debug					flat_normal						-							2   2   0   0	0.0		1.0		0.0		0.0		0.97	0		0.0		4.0			0.0			0			0			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+##############                                                                                                                                                                                          
+# LIQUID POOLS                                                                                                                                                                                          
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+## SOLID POOLS                                                                                                                                                                                          
+# WATER                                                                                                                                                                                                 
+9000			pool_water					flat_normal							pool_water					1   1	0   0	0.0		1.0		200.0	0.6		0.3		0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# BLOOD                                                                                                                                                                                                 
+  
+9001			pool_solid					pool_solid_n						-							1   1	0   0	 0.0	1.2		510.0	0.20	0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool			fxdecal_blood_pool_n				-							1  	1	0   0	 0.0	1.4		510.0	0.20	0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool2			fxdecal_blood_pool2_n				-							1   1	0   0	 0.0	2.0		510.0	0.20	0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool3			fxdecal_blood_pool3_n				-							1   1	0   0	 0.0	1.7		510.0	0.20	0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool4			fxdecal_blood_pool4_n				-							1   1	0   0	 0.0	2.0		510.0	0.20	0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool5			fxdecal_blood_pool5_n				-							1   1	0   0	 0.0	1.1		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool6			fxdecal_blood_pool6_n				-							1   1	0   0	 0.0	1.6		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool7			fxdecal_blood_pool7_n				-							1   1	0   0	 0.0	1.8		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool8			fxdecal_blood_pool8_n				-							1   1	0   0	 0.0	2.0		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool9			fxdecal_blood_pool9_n				-							1   1	0   0	 0.0	1.5		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0                                                                                                                                                                                                                                                                                                                                                                                                      
+9001			fxdecal_blood_pool10		fxdecal_blood_pool10_n				-							1   1	0   0	 0.0	1.5		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool11		fxdecal_blood_pool11_n				-							1   1	0   0	 0.0	1.7		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0 
+9001			fxdecal_blood_pool12		fxdecal_blood_pool12_n				-							1   1	0   0	 0.0	1.8		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool13		fxdecal_blood_pool13_n				-							1   1	0   0	 0.0	1.6		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool14		fxdecal_blood_pool14_n				-							1   1	0   0	 0.0	1.0		510.0	0.20	0.98 	0		0.0		0.0	    	0.0         0	    	0			1			1		0 
+9001			fxdecal_blood_pool15		fxdecal_blood_pool15_n				-							1   1	0   0	 0.0	1.8		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool16		fxdecal_blood_pool16_n				-							1   1	0   0	 0.0	1.8		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool17		fxdecal_blood_pool17_n				-							1   1	0   0	 0.0	1.6		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+9001			fxdecal_blood_pool18		fxdecal_blood_pool18_n				-							1   1	0   0	 0.0	2.0		510.0	0.20	0.98 	0		0.0		0.0	    	0.0         0	    	0			1			1		0 
+9001			fxdecal_blood_pool19		fxdecal_blood_pool19_n				-							1   1	0   0	 0.0	1.7		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+
+
+                                                                                                                                                                                                                                                                                                                                                                                      
+# OIL                                                                                                                                                                                                   
+9002			pool_solid					pool_solid_n						-							1   1	0   0	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# PETROL                                                                                                                                                                                                
+9003			pool_porous_solid			pool_porous_solid_n				-							    1   1	0   0	0.0		1.3		510.0	0.05	0.99	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# MUD                                                                                                                                                                                                   
+9004			pool_solid					pool_solid_n						-							1   1	0   0	0.0		1.0		510.0	0.1		0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+## POROUS POOLS                                                                                                                                                                                         
+# WATER                                                                                                                                                                                                 
+9005			pool_porous_water			flat_normal							-							1   1	0   0	0.0		1.0		200.0	0.6		0.3		0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+# BLOOD                                                                                                                                                                                                 
+
+9006			fxdecal_blood_pool6			fxdecal_blood_pool6_n				-							1   1	0   0	 0.0	1.0		510.0	0.20	0.98 	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+# OIL                                                                                                                                                                                                   
+9007			pool_porous_solid			pool_porous_solid_n					-							1   1	0   0	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# PETROL                                                                                                                                                                                                
+9008			pool_porous_water			flat_normal							-							1   1	0   0	0.0		1.0		510.0	0.35	0.98	0		0.0		0.0	    	0.0	    	0	    	0			1			1		0
+                                                                                                                                                                                                        
+# MUD                                                                                                                                                                                                   
+9009			pool_porous_solid			pool_porous_solid_n					-							1   1	0   0	0.0		1.0		510.0	0.1		0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# WATER PED DRIP POOLS                                                                                                                                                                                  
+9010			pool_porous_solid			pool_porous_solid_n					-							1   1	0   0	0.0		1.0		510.0	0.6		0.30	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+###############                                                                                                                                                                                         
+# LIQUID TRAILS                                                                                                                                                                                         
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+## SOLID TRAILS                                                                                                                                                                                         
+#TRAIL LEAD-IN                                                                                                                                                                                          
+9040			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	2   2	0.0		1.0		510.0	1.0		0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+#TRAIL LEAD-OUT                                                                                                                                                                                         
+9041			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	3   3	0.0		1.0		510.0	1.0		0.98	0		0.0		0.0	    	0.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+# WATER                                                                                                                                                                                                 
+9050			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	0   0	0.0		1.0		200.0	0.6		0.3		0		0.0		0.0	    	1.8	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# BLOOD                                                                                                                                                                                                 
+9051			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	0   0	0.0		1.0		510.0	0.2		0.99	0		0.0		0.0	    	2.5	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# OIL                                                                                                                                                                                                   
+9052			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	0   0	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	4.5	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# PETROL                                                                                                                                                                                                
+9053			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	0   0	0.0		1.0		510.0	1.0		0.98	0		0.0		0.0	    	1.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# MUD                                                                                                                                                                                                   
+9054			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	0   0	0.0		1.0		510.0	0.1		0.98	0		0.0		0.0	    	1.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+## POROUS TRAILS                                                                                                                                                                                        
+# WATER                                                                                                                                                                                                 
+9055			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	1   1	0.0		1.0		200.0	0.6		0.3		0		0.0		0.0	    	1.8	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# BLOOD                                                                                                                                                                                                 
+9056			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	1   1	0.0		1.0		510.0	0.05	0.99	0		0.0		0.0	    	2.5	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# OIL                                                                                                                                                                                                   
+9057			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	1   1	0.0		1.0		510.0	0.5		0.98	0		0.0		0.0	    	4.5	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# PETROL                                                                                                                                                                                                
+9058			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	1   1	0.0		1.0		510.0	0.35	0.98	0		0.0		0.0	    	1.0	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+# MUD                                                                                                                                                                                                   
+9059			fxdecal_petrol_trail			flat_normal						fxdecal_petrol_trail_s		1   4	1   1	0.0		1.0		510.0	0.1		0.98	0		0.0		0.0	    	1.8	    	0	    	1			1			1		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+###############                                                                                                                                                                                         
+# MARKERS                                                                                                                                                                                               
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+## LOST LOGO [HOLLOW]                                                                                                                                                                                   
+9100			-								flat_normal						-							1   1	0  	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## LOST LOGO [SOLID GREY]                                                                                                                                                                               
+9101			-								flat_normal						-							1   1	0  	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## LOST LOGO [SOLID WHITE]                                                                                                                                                                              
+9102			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## COPS LOGO [SOLID WHITE]                                                                                                                                                                              
+9103			-								flat_normal						-							1   1	0  	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## VAGOS LOGO [SOLID WHITE]                                                                                                                                                                             
+9104			-								flat_normal						-							1   1	0 	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+## RACE GROUND LOGO [SOLID WHITE]                                                                                                                                                                       
+9106			-								flat_normal						-							1   1	0  	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## RACE AIR LOGO [SOLID WHITE]                                                                                                                                                                          
+9107			-								flat_normal						-							1   1	0 	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## RACE WATER LOGO [SOLID WHITE]                                                                                                                                                                        
+9108			-								flat_normal						-							1   1	0  	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+## TRIATHLON CYCLE LOGO [SOLID WHITE]                                                                                                                                                                   
+9110			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## TRIATHLON RUN LOGO [SOLID WHITE]                                                                                                                                                                     
+9111			-								flat_normal						-							1   1	0   0  	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## TRIATHLON SWIM LOGO [SOLID WHITE]                                                                                                                                                                    
+9112			-								flat_normal						-							1   1	0  	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+## HELIPAD [SOLID WHITE]                                                                                                                                                                                
+9115			-								flat_normal						-							1   1	0  	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## PARACHUTE LANDING TARGET [SOLID WHITE]                                                                                                                                                               
+9116			-								flat_normal						-							1   1	0 	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## PROP_MP_ICON_SHAD_SM [SOLID WHITE]                                                                                                                                                                   
+9117			-								flat_normal						-							1   1	0 	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## MARKER_HALO [SOLID WHITE]                                                                                                                                                                            
+9118			-								flat_normal						-							1   1	0 	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+## MARKER_HALO_POINT [SOLID WHITE]                                                                                                                                                                      
+9119			-								flat_normal						-							1   1	0 	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+## MULTIPLAYER LOCATE 1 [SOLID WHITE]                                                                                                                                                                   
+9120			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		1
+                                                                                                                                                                                                        
+## MULTIPLAYER LOCATE 2 [SOLID WHITE]                                                                                                                                                                   
+9121			-								flat_normal						-							1   1	0   0  	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		1
+                                                                                                                                                                                                        
+## MULTIPLAYER LOCATE 3 [SOLID WHITE]                                                                                                                                                                   
+9122			-								flat_normal						-							1   1	0  	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		1
+                                                                                                                                                                                                        
+## MULTIPLAYER CREATOR TRIGGER [SOLID WHITE]                                                                                                                                                            
+9123			-								flat_normal						-							1   1	0  	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		0    		0			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+########################                                                                                                                                                                                
+# MISC TEST - THESE DECALS ARE REFERENCED BY MISCELLANEOUS DATA FILES OR CODE. IF 9998 OR 9999 CHANGE, THE CODE NEEDS TO BE UPDATED TOO!!                                                               
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO   WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+## SOLOMON1 PLANE FUEL DUMP                                                                                                                                                                             
+9200			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	6   6	0.0		1.0		510.0	0.2		0.99	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+9200			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	7   7	0.0		1.0		510.0	0.2		0.99	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+9200			fxdecal_splatter_mist			fxdecal_splatter_mist_n			fxdecal_splatter_mist_s		3   3	8   8	0.0		1.0		510.0	0.2		0.99	0		0.0		0.0	    	0.0	    	0	    	1			1			0		0
+                                                                                                                                                                                                        
+## WHAT MISSION IS CALLING THESE AS THEY ARE LOOKING AT HALF A SHOE                                                                                                                                     
+9995			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							8   8   40  40	0.0		1.0		510.0	0.5		0.98	0		0.00	0.0	    	0.0	    	0	    	1			1			0		0
+9997			fxdecal_bullet_bangs			fxdecal_bullet_bangs_n			-							8   8   40  40	0.0		1.0		510.0	0.5		0.98	0		0.00	0.0	    	0.0	    	0	    	1			1			0		0
+#9998			fxdecal_test_001				flat_normal						-							1   1   0   0	0.0		1.0		0.0		0.0		0.97	0		0.00	0.0	    	1.0	    	0	    	0			1			0		0
+#9999			fxdecal_debug					flat_normal						-							2   2   2  	2	0.0		1.0		0.0		0.0		0.97	0		0.00	0.0	    	0.0	    	0	    	0			1			0		0
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+###############                                                                                                                                                                                         
+# VEHICLE BADGES                                                                                                                                                                                        
+##################################################################################################################################################################################################################################################################
+# ID			DIFFUSE MAP						NORMAL MAP						SPECULAR MAP				TEXTURE INFO			SIZE	<-------SPECULAR------>   PARALLAX   	EMISSIVE    TEX_WRAP    USE_ANISO    WASHABLE		UNDERWATER		ROTATE   #
+#																											ROW	COL	IDA	IDB	TIME	MULT	FALLOFF	INTNSTY	FRESNEL	STEEP	SCALE	VALUE	    LENGTH	    						CREATE		FADE	CAMERA   #
+##################################################################################################################################################################################################################################################################
+                                                                                                                                                                                                        
+10000			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10001			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10002			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10003			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10004			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10005			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10006			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10007			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10008			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10009			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10010			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10011			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10012			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10013			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10014			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10015			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10016			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10017			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10018			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10019			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10020			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10021			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10022			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10023			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10024			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10025			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10026			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10027			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10028			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10029			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10030			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+10031			-								flat_normal						-							1   1	0	0	0.0		1.0		0.0		0.0		0.0		0		0.0		0.0	    	0.0    		1    		0			1			0		0
+
+
+
+
+                                                                                                                                                                                               
+
+
+
+
+DECAL_DEF_END

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- #♥FS-Graphics♥	 -->
+<rage__ptxgpuDropEmitterSettings>
+  <boxCentreOffset x="0.000000" y="13.000000" z="6.000000" />
+  <boxSize x="10.000000" y="25.000000" z="17.674999" />
+  <lifeMinMax x="5.000000" y="7.000000" />
+  <velocityMin x="-0.100000" y="-0.100000" z="0.000000" />
+  <velocityMax x="0.000000" y="0.000000" z="0.000000" />
+  <clampToGround value="false" />
+</rage__ptxgpuDropEmitterSettings>

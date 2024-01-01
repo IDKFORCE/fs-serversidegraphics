@@ -41,3 +41,11 @@ CreateThread(function()
 		end
 	end
 end)
+
+AddEventHandler('onResourceStart', function(resourceName)
+	if (GetCurrentResourceName() ~= resourceName) then
+	  return
+	end
+	print('Made By ForceScripts')
+	print('For Suport Join The Discord: (https://discord.com/invite/UFng7DWnWP)')
+end)

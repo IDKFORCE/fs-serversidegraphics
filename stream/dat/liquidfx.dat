@@ -1,0 +1,19 @@
+6.00
+
+#
+
+LIQUIDFX_START
+
+#							   DURATION	     DECAL_LIFE	    POUR_DECAL_ID -------------->	SOAK_DECAL_ID -------------->	INOUT	COL_TINT
+# TYPE	    VFX_GROUP	    FOOT    WHEEL   FOOT    WHEEL   POOL    TRAIL	TRAIL	TRAIL  	POOL    TRAIL	TRAIL	TRAIL  	DECAL	R	G   B	A		SPLASH_FX    
+#																	IN		MID		OUT				IN		MID		OUT		SIZE
+									
+WATER	    LIQUID_WATER    5.0	    0.5	    20.0    20.0    9000    9040	9050	9041	9005    9040	9055	9041	0.35	160	170 180	255		trail_splash_water
+BLOOD	    LIQUID_BLOOD    30.0	20.6	-1.0    -1.0    9001    9040    9051	9041	9001    9040    9056	9041	0.30 	60  0   0   255		trail_splash_blood
+OIL			LIQUID_OIL	    5.5	    0.45    -1.0    -1.0    9002    9040    9052	9041	9007    9040    9057	9041	0.35	40	35  50	255		trail_splash_oil
+PETROL	    LIQUID_PETROL   5.5	    0.55    -1.0    -1.0    9003    9040    9053	9041	9008    9040    9058	9041	0.35	40	37  34	255		trail_splash_petrol
+MUD			LIQUID_MUD	    6.0	    0.5	    -1.0    -1.0    9004    9054    9054	9054	9009    9059    9059	9059	0.20	40	34  28	255		-
+
+
+LIQUIDFX_END
+
